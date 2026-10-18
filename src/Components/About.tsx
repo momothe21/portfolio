@@ -89,7 +89,7 @@ function About() {
 
             <a
               className="btn btn-primary about-resume"
-              href="/resume.pdf"
+              href="/ResumeF26.pdf"
               download
             >
               Download Resume ↓
